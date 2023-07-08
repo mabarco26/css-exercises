@@ -1,0 +1,13 @@
+.parent {
+    font-size: 28px;
+    font-family: 'Times New Roman', 'Helvetica',sans-serif;
+}
+
+.parent.primary {
+    background-color: black;
+    color: white;
+}
+
+.parent.secondary {
+    background-color: yellow;
+}
